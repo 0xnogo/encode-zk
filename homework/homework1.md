@@ -35,3 +35,13 @@ A set needs to follow these properties:
 
 Mod cannot be negative
 
+## Use cases
+
+```
+Think of some use cases of ZKP. What problems are there when using zkps in real world situation?
+```
+
+Use cases:
+* Proof we pay tax to the tax authority without sharing bank receipt.
+* Proof that we own an asset without sharing any document (Notarial for a real estate sell)
+* Prove that renter has enough income to rent an appartement without sharing his payslips.
