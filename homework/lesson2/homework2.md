@@ -13,7 +13,7 @@ Group properties:
 ```
 All odds square are = 1 mod 8
 
-{1...11} mod 8 = 18
+{1...11} mod 8 = 1
 
 All even squares = mod 8
 
@@ -27,7 +27,11 @@ it looks like it is cyclic:
 ```
 3
 ```
+Vanity address generation is using brute force by generating random private key until the public key associated (P = n x G) has the vanity pattern we want.
 
+We can also split the vanity address generation without having to share the private key by using the follwoig property: `A + B = a x G + b x G = G x (a + b)`
+
+More explanation [here](https://asecuritysite.com/blockchain/vanity).
 
 ```
 4
