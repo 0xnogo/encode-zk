@@ -45,3 +45,5 @@ Use cases:
 * Proof we pay tax to the tax authority without sharing bank receipt.
 * Proof that we own an asset without sharing any document (Notarial for a real estate sell)
 * Prove that renter has enough income to rent an appartement without sharing his payslips.
+
+Usually we have to communicate with some central authorities.
